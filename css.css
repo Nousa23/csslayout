@@ -1,0 +1,37 @@
+.cd{
+    padding-right: 20px;
+}
+.Mm{
+    padding-right: 300px;
+    padding-left: 300px;
+}
+
+.test {
+display: flex;
+justify-content: center;
+}
+
+#logo {
+    width: 200px;
+}
+h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.grid{
+    display:flex;
+    justify-content: center;
+}
+
+#1{
+    width: 100px;
+}
+#12{
+    width: 10px;
+}
+.tuotempo{
+    width: 10px;
+}
+.dropdown-menu {
+    background-color: wheat;
+}
